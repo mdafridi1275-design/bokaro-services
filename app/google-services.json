@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926803893319",
+    "project_id": "bokaro-services",
+    "storage_bucket": "bokaro-services.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926803893319:android:e7c83e06fafbd20827a562",
+        "android_client_info": {
+          "package_name": "com.aistudio.bokaroservices.bwkdsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEFq1CyQ_lky3gymTyBDnONH0vMmrdXzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
